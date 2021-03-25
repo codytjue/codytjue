@@ -1,4 +1,5 @@
-### Hi there 👋
+<img src="https://raw.githubusercontent.com/codytjue/portfolio-gatsby/5ce340951d2f73e904050c02e387ddbd24a05e93/src/images/logoAnimation.svg" width="400px"></img>
+
 
 <!--
 **codytjue/codytjue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
