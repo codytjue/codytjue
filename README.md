@@ -1,6 +1,12 @@
 <p align="center">
 <img src="https://raw.githubusercontent.com/codytjue/portfolio-gatsby/5ce340951d2f73e904050c02e387ddbd24a05e93/src/images/logoAnimation.svg" width="400px"></img>
+<br>
+<a href="mailto:codytjue@gmail.com" style="margin: 20px;"><img src="https://raw.githubusercontent.com/codytjue/portfolio-gatsby/3ece6f713aeb9fa54b936f8dae761a3cc6140337/src/images/email.svg"></img></a>
+<div width="10px"></div>
+<a href="https://www.linkedin.com/in/codytjue/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/codytjue/portfolio-gatsby/3ece6f713aeb9fa54b936f8dae761a3cc6140337/src/images/linkedin.svg"
+></img></a>
 </p>
+
 
 
 <!--
